@@ -1,0 +1,3 @@
+name = "mineload-employee-api"
+main = "index.js"
+compatibility_date = "2026-11-21"
