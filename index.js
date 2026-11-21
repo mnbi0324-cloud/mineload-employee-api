@@ -49,4 +49,4 @@ export default {
     if (!permUpsert.ok) return json({error:'Account and profile created, but permission write failed.'},500);
     return json({success:true,user_id:created.id});
   }
-};.
+};
